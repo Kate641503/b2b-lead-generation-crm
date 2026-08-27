@@ -7,7 +7,23 @@ A professional portfolio demonstration of a full-cycle B2B lead generation and C
 > **Portfolio Demo:** This project uses fictional sample data and does not represent real clients or personal information.
 
 ---
+---
 
+## 📸 Project Screenshots
+
+### Dashboard
+![B2B CRM Dashboard](B2b%20Dahboard.png)
+
+### Lead Database
+![B2B Lead Database](B2b%20lead%20database.png)
+
+### CRM Pipeline
+![B2B CRM Pipeline](B2b%20CRM%20pipeline.png)
+
+### Campaign Report
+![B2B Campaign Report](B2b%20compaign%20report.png)
+
+---
 ## 📌 Project Overview
 
 This project demonstrates how a Virtual Assistant can organize and manage a B2B lead-generation operation from initial prospect research through qualification, outreach, follow-up management, and appointment setting.
